@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin: 20px 0;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+  width: calc(100% - 44px); 
+}
+
+mark {
+  background-color: yellow;
+  color: black;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+.search-results {
+  margin-top: 20px;
+}
+
+.search-result {
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.search-result h3 {
+  margin: 0;
+  color: #0077cc;
+}
+
+.search-result p {
+  color: #555;
+}
+
