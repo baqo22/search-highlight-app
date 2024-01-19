@@ -26,11 +26,11 @@ What things you need to install the software and how to install them:
 A step-by-step series of examples that tell you how to get a development environment running:
 
 1. **Clone the Repository**:
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/baqo22/search-highlight-app.git
 
 
 2. **Navigate to the project directory**:
-cd your-repository-name
+cd search-highlight-app
 
 
 
